@@ -44,3 +44,4 @@ coverage
 /reports/
 !/reports/README.md
 bin/
+Gemfile.lock
